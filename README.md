@@ -1,2 +1,2 @@
 # luffy-diag
-pegatron diags UI
+Pegatron Diags UI
